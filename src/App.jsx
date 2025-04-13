@@ -11,7 +11,7 @@ function App() {
           mongoDB
         </p>
       </div>
-      {/* container 2: header */}
+      {/* container 2: Navbar */}
       <div className="m-6 bg-blue-600">
         <h1>Nav Bar</h1>
         <p>This is navbar container</p>
